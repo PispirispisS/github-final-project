@@ -1,7 +1,7 @@
-Currently helping a micro-finance Startup to know a little bit more about GitHub´s features!
-
-
-Part of the job here is helping them to introduce an usefull sample code on GitHub
-
-
-This sample code calculate the simple interest.
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
